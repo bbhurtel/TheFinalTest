@@ -1,0 +1,15 @@
+mkdir Info
+cd Info
+touch Info/InfoFile1.txt Info/InfoFile2.txt
+cd ..
+git add Info/InfoFile1.txt Info/InfoFile2.txt
+git config user.name Bikash_INFO >> Commands.txt
+echo git config user.name Bikash_INFO
+git config user.name Bikash_INFO >> Command.txt
+
+
+
+
+echo git config user.name Bikash_INFO
+git config user.name Bikash_INFO_INFO git config user.name Bikash_INFO_INFO git config user.name Bikash_INFO_INFO_INFO_INFO_INFO
+I learned how to update a file and documented steps in command.txt file
